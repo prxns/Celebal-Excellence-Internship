@@ -24,6 +24,8 @@ The repository documents my progression through core data engineering concepts, 
 | **03** | [Advanced SQL Analysis](./Week%203%20(Advanced%20SQL%20Analysis)/) | SQL, Subqueries, CTEs, Window Functions |
 | **04** | [Azure Data Pipeline](./Week%204%20(Azure%20Data%20Pipeline)/) | Azure Data Factory, Azure Blob Storage |
 | **05** | [PySpark Data Processing](./Week%205%20(PySpark%20Data%20Processing)/) | Apache Spark, PySpark, Spark DataFrames |
+| **06** | [Spark Architecture & Optimization](./Week%206%20(Spark%20Architecture%20%26%20Optimization)/) | Apache Spark, Spark Architecture, Spark Optimization |
+| **07** | [Pandas Data Exploration and Cleaning](./Week%207%20(Pandas%20Data%20Exploration%20and%20Cleaning)/) | Python, Pandas, Data Exploration, Data Cleaning |
 
 ---
 
@@ -37,6 +39,8 @@ Celebal-Excellence-Internship/
 ├── Week 3 (Advanced SQL Analysis)/
 ├── Week 4 (Azure Data Pipeline)/
 ├── Week 5 (PySpark Data Processing)/
+├── Week 6 (Spark Architecture & Optimization)/
+├── Week 7 (Pandas Data Exploration and Cleaning)/
 │
 └── README.md
 ```
@@ -56,6 +60,8 @@ Each assignment directory contains its own **README and supporting files**, incl
 - Apache Spark
 - PySpark
 - Spark DataFrames
+- Data Exploration
+- Data Cleaning
 
 ### Cloud & Data Engineering
 - Azure Data Factory (ADF)
@@ -86,6 +92,8 @@ Throughout the internship, the assignments cover:
 - Azure Data Factory and Blob Storage
 - Distributed data processing with Apache Spark
 - PySpark DataFrame transformations and aggregations
+- Dataset exploration using Pandas
+- Handling missing values, duplicate removal, and feature creation
 
 ---
 
@@ -98,6 +106,8 @@ Throughout the internship, the assignments cover:
 | 03 | Advanced SQL Analysis | ✅ Completed |
 | 04 | Azure Data Pipeline | ✅ Completed |
 | 05 | PySpark Data Processing | ✅ Completed |
+| 06 | Spark Architecture & Optimization | ✅ Completed |
+| 07 | Pandas Data Exploration and Cleaning | ✅ Completed |
 
 > This repository will be updated as I progress through the remaining weeks of the internship.
 
