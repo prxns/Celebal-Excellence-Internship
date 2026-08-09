@@ -126,9 +126,10 @@ Throughout the internship, these assignments cover:
 
 ## Author
 
-- **Pranshu Rawat**
-- **B.Tech Computer Science & Engineering**
-- **DIT University**
+**Pranshu Rawat**
+
+B.Tech Computer Science & Engineering  
+DIT University
 
 ---
 

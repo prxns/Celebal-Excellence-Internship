@@ -109,6 +109,7 @@ python -m unittest discover -s tests -v
 
 ## Author
 
-- **Pranshu Rawat**
-- **DIT University**
-- **Week 8 Internship Mini Project - Celebal Technologies**
+**Pranshu Rawat**
+
+B.Tech Computer Science & Engineering  
+DIT University
