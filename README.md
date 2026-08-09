@@ -1,12 +1,12 @@
-# Celebal Technologies — Data Engineering Internship 2026
+# Celebal Technologies - Data Engineering Internship 2026
 
-This repository contains the assignments and projects completed as part of the **Celebal Technologies Data Engineering Internship 2026**.
+This repository contains the assignments and mini projects completed as part of the **Celebal Technologies Data Engineering Internship 2026**.
 
-The repository documents my progression through core data engineering concepts, including **data cleaning, SQL analysis, advanced querying, cloud-based data pipelines, and distributed data processing with PySpark**.
+It documents my progress through core data-engineering concepts, including data cleaning, SQL analysis, advanced querying, cloud data pipelines, distributed processing with PySpark, and end-to-end e-commerce analytics.
 
 ---
 
-## Internship Overview
+## Internship overview
 
 - **Organization:** Celebal Technologies
 - **Domain:** Data Engineering
@@ -15,9 +15,9 @@ The repository documents my progression through core data engineering concepts, 
 
 ---
 
-## Assignments
+## Assignments and mini projects
 
-| Week | Assignment | Key Technologies |
+| Week | Assignment / Project | Key Technologies |
 |:---:|---|---|
 | **01** | [Pandas Data Cleaning](./Week%201%20(Pandas%20Data%20Cleaning)/) | Python, Pandas, Jupyter Notebook |
 | **02** | [SQL Data Analysis](./Week%202%20(SQL%20Data%20Analysis)/) | SQL, MySQL, Data Analysis |
@@ -26,73 +26,83 @@ The repository documents my progression through core data engineering concepts, 
 | **05** | [PySpark Data Processing](./Week%205%20(PySpark%20Data%20Processing)/) | Apache Spark, PySpark, Spark DataFrames |
 | **06** | [Spark Architecture & Optimization](./Week%206%20(Spark%20Architecture%20%26%20Optimization)/) | Apache Spark, Spark Architecture, Spark Optimization |
 | **07** | [Pandas Data Exploration and Cleaning](./Week%207%20(Pandas%20Data%20Exploration%20and%20Cleaning)/) | Python, Pandas, Data Exploration, Data Cleaning |
+| **08** | [E-Commerce Order Analytics System](./Week%208%20(E-Commerce%20Order%20Analytics%20System)/) | Python, Pandas, SQLite, SQL, CTEs, Window Functions |
 
 ---
 
-## Repository Structure
+## Repository structure
 
 ```text
 Celebal-Excellence-Internship/
-│
-├── Week 1 (Pandas Data Cleaning)/
-├── Week 2 (SQL Data Analysis)/
-├── Week 3 (Advanced SQL Analysis)/
-├── Week 4 (Azure Data Pipeline)/
-├── Week 5 (PySpark Data Processing)/
-├── Week 6 (Spark Architecture & Optimization)/
-├── Week 7 (Pandas Data Exploration and Cleaning)/
-│
-└── README.md
+|
+|-- Week 1 (Pandas Data Cleaning)/
+|-- Week 2 (SQL Data Analysis)/
+|-- Week 3 (Advanced SQL Analysis)/
+|-- Week 4 (Azure Data Pipeline)/
+|-- Week 5 (PySpark Data Processing)/
+|-- Week 6 (Spark Architecture & Optimization)/
+|-- Week 7 (Pandas Data Exploration and Cleaning)/
+|-- Week 8 (E-Commerce Order Analytics System)/
+|
+`-- README.md
 ```
 
-Each assignment directory contains its own **README and supporting files**, including source code, notebooks, SQL queries, datasets, documentation, and results where applicable.
+Each assignment directory contains its own README and supporting files, such as source code, notebooks, SQL queries, datasets, documentation, and results.
 
 ---
 
-## Technologies & Tools
+## Technologies and tools
 
-### Programming & Query Languages
+### Programming and query languages
+
 - Python
 - SQL
 
-### Data Processing
+### Data processing and analytics
+
 - Pandas
 - Apache Spark
 - PySpark
 - Spark DataFrames
-- Data Exploration
-- Data Cleaning
+- SQLite
+- Data cleaning and validation
+- Data quality analysis
 
-### Cloud & Data Engineering
+### Cloud and data engineering
+
 - Azure Data Factory (ADF)
 - Azure Blob Storage
 - ETL / Data Pipelines
 
 ### Databases
-- MySQL
 
-### Development & Version Control
+- MySQL
+- SQLite
+
+### Development and version control
+
 - Jupyter Notebook
 - Git
 - GitHub
 
 ---
 
-## Topics Covered
+## Topics covered
 
-Throughout the internship, the assignments cover:
+Throughout the internship, these assignments cover:
 
 - Data exploration and cleaning using Pandas
 - Data transformation and feature engineering
+- Data validation and referential-integrity checks
 - SQL querying and relational data analysis
 - JOINs and aggregate functions
 - Subqueries and Common Table Expressions (CTEs)
-- SQL Window Functions
-- Cloud data pipeline implementation
+- SQL window functions
+- Customer segmentation, revenue analysis, and cohort retention
+- Cloud data-pipeline implementation
 - Azure Data Factory and Blob Storage
 - Distributed data processing with Apache Spark
 - PySpark DataFrame transformations and aggregations
-- Dataset exploration using Pandas
 - Handling missing values, duplicate removal, and feature creation
 
 ---
@@ -101,24 +111,24 @@ Throughout the internship, the assignments cover:
 
 | Week | Topic | Status |
 |:---:|---|:---:|
-| 01 | Pandas Data Cleaning | ✅ Completed |
-| 02 | SQL Data Analysis | ✅ Completed |
-| 03 | Advanced SQL Analysis | ✅ Completed |
-| 04 | Azure Data Pipeline | ✅ Completed |
-| 05 | PySpark Data Processing | ✅ Completed |
-| 06 | Spark Architecture & Optimization | ✅ Completed |
-| 07 | Pandas Data Exploration and Cleaning | ✅ Completed |
+| 01 | Pandas Data Cleaning | Completed |
+| 02 | SQL Data Analysis | Completed |
+| 03 | Advanced SQL Analysis | Completed |
+| 04 | Azure Data Pipeline | Completed |
+| 05 | PySpark Data Processing | Completed |
+| 06 | Spark Architecture & Optimization | Completed |
+| 07 | Pandas Data Exploration and Cleaning | Completed |
+| 08 | E-Commerce Order Analytics System | Completed |
 
-> This repository will be updated as I progress through the remaining weeks of the internship.
+> This repository will continue to be updated as I complete further internship work.
 
 ---
 
 ## Author
 
-**Pranshu Rawat**
-
-B.Tech Computer Science & Engineering  
-DIT University
+- **Pranshu Rawat**
+- **B.Tech Computer Science & Engineering**
+- **DIT University**
 
 ---
 
