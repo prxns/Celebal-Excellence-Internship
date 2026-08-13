@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter / Databricks
+.ipynb_checkpoints/
+
+# Python tooling
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+config.env
+config.env.local
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local data / generated files
+data/
+datasets/
+Datasets/
+
+# Generated outputs
+output/
+outputs/
+tmp/
+temp/
+
+# Local Spark / Delta artifacts
+spark-warehouse/
+
+# Credentials / certificates
+*.pem
+*.key
+*.crt
